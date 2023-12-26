@@ -3,7 +3,7 @@
 using namespace std;
 
 void mySwap(int &,int &);  
-
+ 
 int main(){
 	int x,y;
 	cin >> x >> y;
